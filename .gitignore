@@ -1,1 +1,43 @@
-DummyPass/build/
+# === CMake build directories ===
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# === Ninja build system ===
+.ninja_deps
+.ninja_log
+build.ninja
+rules.ninja
+
+# === Object files, shared/static libraries ===
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+
+# === Backup / editor files ===
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+# === VSCode / JetBrains IDEs ===
+.vscode/
+.idea/
+
+# === OS generated files ===
+.DS_Store
+Thumbs.db
+
