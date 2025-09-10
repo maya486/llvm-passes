@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/mrebholz/llvm-passes/DummyPass/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
